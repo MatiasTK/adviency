@@ -1,0 +1,20 @@
+body {
+  background-color: #202124;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #909192;
+}
+
+.lista {
+  padding: 0;
+}
+
+.lista li{
+  list-style-type: none;
+}
