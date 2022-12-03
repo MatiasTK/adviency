@@ -11,3 +11,5 @@ La idea es como esta propuesto hacer cada dia nuevamente la app y usar como base
 ## Dia 1
 
 Inicie el proyecto, decidí usar cosas simples exceptuando por react, supongo que a futuro añadiré algún framework de css y quizás lo haga typescript pero por el momento es asi, el dia de hoy fue sencillo ya que solo fue crear la lista.
+
+![Preview dia 1](https://i.imgur.com/nbULZ61.png)
